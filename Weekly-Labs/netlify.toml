@@ -1,0 +1,94 @@
+[[redirects]]
+  from = "/home"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/work-page1"
+  to = "/Week Two/lab02/work.html"
+  status = 200
+
+[[redirects]]
+  from = "/start"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/welcome"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/hello"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/work-page2"
+  to = "/Week Three/lab03/work.html"
+  status = 200
+
+[[redirects]]
+  from = "/exercise-page2"
+  to = "/Week Four/lab01/exercise2.html"
+  status = 200
+
+[[redirects]]
+  from = "/landing-page"
+  to = "/Week Five/lab01/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/first-page"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/beginning-page"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/hello-world"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/box-page2"
+  to = "/Week Seven/lab01/box2.html"
+  status = 200
+
+[[redirects]]
+  from = "/exercise-page1"
+  to = "/Week Eight/lab01/exercise1.html"
+  status = 200
+
+[[redirects]]
+  from = "/week-eight"
+  to = "/Week Eight/lab02/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/lab-03"
+  to = "/Week Eight/lab03/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/car-page"
+  to = "/Week Nine/lab01/car.html"
+  status = 200
+
+[[redirects]]
+  from = "/assignment-one"
+  to = "/Assignment1a/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/assignment-parttwo"
+  to = "/Assignment1b/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/second-assignment"
+  to = "/Assignment 2/index.html"
+  status = 200
